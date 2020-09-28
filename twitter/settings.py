@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '%dsp4$zhf0o==t8!jqja@$bf&-6uv*x4d3yhu1)(&hroepygdr'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['twittertransport.herokuapp.com',
+ALLOWED_HOSTS = ['mathree.herokuapp.com',
                  '127.0.0.1']
 
 
