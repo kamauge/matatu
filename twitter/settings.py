@@ -79,13 +79,13 @@ WSGI_APPLICATION = 'twitter.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE':'django.db.backends.postgresql_psycopg2',
-        'NAME': 'matatus',
+        'NAME': 'd8bk13tq6aupc4',
 
-        'USER': 'postgres',
+        'USER': 'xxcaipvwzryycp',
 
-        'PASSWORD': 'root',
+        'PASSWORD': '4e942c5a87f447af7d1207bc4fdb5fb608f714457fc6877fafb31f2ff8040ff6',
 
-        'HOST': 'localhost',
+        'HOST': 'ec2-35-173-94-156.compute-1.amazonaws.com',
 
         'PORT': '5432',
     }
